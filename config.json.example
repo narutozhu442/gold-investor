@@ -1,0 +1,13 @@
+{
+  "holdings": {
+    "type": "纸黄金",
+    "costPrice": 480.5,
+    "quantity": 10,
+    "targetProfit": 520.0,
+    "stopLoss": 460.0
+  },
+  "alert": {
+    "enabled": true,
+    "threshold": 2.0
+  }
+}
